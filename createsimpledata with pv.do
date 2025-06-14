@@ -2,8 +2,6 @@
 // createsimpledata.do
 // IW 4dec2024
 
-
-
 // 1. TREATMENT ONLY
 clear
 input randtrt outcome n
